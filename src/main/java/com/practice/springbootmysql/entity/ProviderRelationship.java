@@ -1,8 +1,9 @@
 package com.practice.springbootmysql.entity;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.IdClass;
 import lombok.Data;
+
+import javax.persistence.Entity;
+import javax.persistence.IdClass;
 
 @Data
 @Entity

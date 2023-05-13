@@ -1,8 +1,9 @@
 package com.practice.springbootmysql.entity;
 
-import jakarta.persistence.Entity;
 import lombok.Data;
 import org.springframework.data.annotation.Id;
+
+import javax.persistence.Entity;
 
 @Data
 @Entity
